@@ -2,13 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestScript : MonoBehaviour
+public class testEScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello World");
-        Debug.Log("Hello from Outer Rim");
+        
     }
 
     // Update is called once per frame
